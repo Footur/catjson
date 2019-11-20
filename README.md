@@ -1,6 +1,7 @@
 # cat JSON
 
 This is a little helper script to make JSON files better "grepable".
+It's inspired by [this](https://news.ycombinator.com/item?id=20245913) Hacker News thread.
 
 ```json
 {
